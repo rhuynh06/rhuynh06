@@ -56,5 +56,4 @@ I'm a first-year Computer Science student at the University of California, Irvin
 ## 📫 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-huynh-937916248/)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)...
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryanhuynh200604@gmail.com)  
