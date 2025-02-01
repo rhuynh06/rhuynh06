@@ -10,7 +10,8 @@ I'm a first-year Computer Science student at the University of California, Irvin
 ## 🌟 About Me  
 - 🔭 I’m currently learning advanced Python concepts and diving into Machine Learning frameworks like TensorFlow and PyTorch.  
 - 🌱 **Learning Goals for 2025:** Expand my knowledge of cloud computing and contribute to open-source AI/ML projects.  
-- ⚡ Fun Fact: I love gaming 🎮 and experimenting with web design 🎨! 
+- ⚡ Fun Fact: I love gaming 🎮 and experimenting with web design 🎨!
+- Check out my website @ [https://ryanhuynh.me/](https://ryanhuynh.me/)
 
 ---
 
