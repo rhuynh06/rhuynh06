@@ -49,7 +49,7 @@ I'm a first-year Computer Science student at the University of California, Irvin
 
 ## 📊 GitHub Stats  
 
-<img align="left" alt="Ryan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=UnknownPerson2&show_icons=true&theme=radical&hide_border=false&border_color=ffffff&title_color=00BFFF&icon_color=DC143C&text_color=00BFFF&bg_color=000000"/>  
+<img align="left" alt="Ryan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rhuynh06&show_icons=true&theme=radical&hide_border=false&border_color=ffffff&title_color=00BFFF&icon_color=DC143C&text_color=00BFFF&bg_color=000000"/>  
 
 ---
 
