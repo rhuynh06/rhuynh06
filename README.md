@@ -28,7 +28,7 @@ I'm a first-year Computer Science student at the University of California, Irvin
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="display: inline-block; margin-right: 10px;">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" style="display: inline-block; margin-right: 10px;">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="display: inline-block; margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" alt="GIT" style="display: inline-block; margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white" alt="GIT" style="display: inline-block; margin-right: 10px;">
 </div>
 
 
