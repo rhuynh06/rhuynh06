@@ -3,7 +3,7 @@
 🎓 **Computer Science Student @ UC Irvine**  
 💻 **Passionate about Artificial Intelligence and Machine Learning!**  
 
-I'm a first-year Computer Science student at the University of California, Irvine, actively pursuing knowledge and hands-on experience in cutting-edge technologies. My goal is to contribute to impactful projects while constantly improving my technical skills.  
+I'm a student at the University of California, Irvine majoring in Computer Science, actively pursuing knowledge and hands-on experience in cutting-edge technologies. My goal is to contribute to impactful projects while constantly improving my technical skills.  
 
 ---
 
