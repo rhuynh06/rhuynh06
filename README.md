@@ -1,16 +1,15 @@
-# 👋 Hi, I'm Ryan Huynh!  
+# Hi, I'm Ryan Huynh!  
 
-🎓 **Computer Science Student @ UC Irvine**  
-💻 **Passionate about Artificial Intelligence and Machine Learning!**  
+**Computer Science Student @ UC Irvine**  
+**Passionate about Artificial Intelligence and Machine Learning!**  
 
 I'm a student at the University of California, Irvine majoring in Computer Science, actively pursuing knowledge and hands-on experience in cutting-edge technologies. My goal is to contribute to impactful projects while constantly improving my technical skills.  
 
 ---
 
-## 🌟 About Me  
-- 🔭 I’m currently learning advanced Python concepts and diving into Machine Learning frameworks like TensorFlow and PyTorch.  
-- 🌱 **Learning Goals for 2025:** Expand my knowledge of cloud computing and contribute to open-source AI/ML projects.  
-- ⚡ Fun Fact: I love gaming 🎮 and experimenting with web design 🎨!
+## About Me  
+- I’m currently learning advanced Python concepts and diving into Machine Learning frameworks like TensorFlow and PyTorch.  
+- **Learning Goals for 2025:** Expand my knowledge of cloud computing and contribute to open-source AI/ML projects.  
 - Check out my website @ [https://ryanhuynh.me/](https://ryanhuynh.me/)
 
 ---
