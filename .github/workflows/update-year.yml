@@ -19,9 +19,12 @@ jobs:
           sed -i "s/{{YEAR}}/${current_year}/g" README.md
 
       - name: Commit and push changes
+        env:
+          TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@users.noreply.github.com'
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
           git add README.md
-          git commit -m "Update year in README to ${current_year}" || echo "No changes to commit"
+          git commit -m "Update year in README to $(date +'%Y')" || echo "No changes to commit"
           git push
