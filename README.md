@@ -9,7 +9,7 @@ I'm a student at the University of California, Irvine majoring in Computer Scien
 
 ## About Me  
 - I’m currently learning advanced Python concepts and diving into Machine Learning frameworks like TensorFlow and PyTorch.  
-- **Learning Goals for {{YEAR}}:** Expand my knowledge of cloud computing and contribute to open-source AI/ML projects.  
+- **Learning Goals for 2025/26:** Expand my knowledge of cloud computing and contribute to open-source AI/ML projects.  
 - Check out my website @ [https://ryanhuynh.me/](https://ryanhuynh.me/)
 
 ---
